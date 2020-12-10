@@ -16,14 +16,19 @@ Have worked on many projects and on diverse programming languages.
 
 | Topic      | Specifics |
 | ----------- | ----------- |
-| Programming Lanugage      | Java, C#, Java Script, ABAP       |
-| Cloud Platforms   | SAP Cloud platform (Neo and Cloud Foundry), AWS        |
-| Server Side frameworks  | JEE, Spring,Spring Boot       |
+| Programming Lanugage      | Java, C#, Java Script, ABAP ,PHP     |
+| Cloud Platforms   | SAP Cloud platform (Neo and Cloud Foundry), AWS ,Heroku       |
+| Server Side frameworks  | JEE, Spring,Spring Boot , Laravel      |
 
 ### Side projects
+
+[Musical Bot] (https://medium.com/@saurav.sarkar1/build-a-facebook-messenger-bot-with-botkit-5ab159d79f94?source=your_stories_page-------------------------------------) : A digital assistant in Facebook Messenger to recommend musical videos as per your input and also on your current mood :).
+
+[Gym Manager] (https://github.com/saurav28/GymManager) : A simple gym management applications made in PHP and its super cool web framework Laravel
 
 
 ### Contact
 @saurav28
 Email: saurav.sarkar1@gmail.com
 [linkedin](https://www.linkedin.com/in/sauravsarkar1/)
+Lanugagues Known: English, Hindi, Bengali and German (A1)
