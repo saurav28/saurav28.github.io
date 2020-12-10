@@ -22,9 +22,9 @@ Have worked on many projects and on diverse programming languages.
 
 ### Side projects
 
-[Musical Bot] (https://medium.com/@saurav.sarkar1/build-a-facebook-messenger-bot-with-botkit-5ab159d79f94?source=your_stories_page-------------------------------------) : A digital assistant in Facebook Messenger to recommend musical videos as per your input and also on your current mood :).
+[Musical Bot](https://medium.com/@saurav.sarkar1/build-a-facebook-messenger-bot-with-botkit-5ab159d79f94?source=your_stories_page-------------------------------------) : A digital assistant in Facebook Messenger to recommend musical videos as per your input and also on your current mood :).
 
-[Gym Manager] (https://github.com/saurav28/GymManager) : A simple gym management applications made in PHP and its super cool web framework Laravel
+[Gym Manager](https://github.com/saurav28/GymManager) : A simple gym management applications made in PHP and its super cool web framework Laravel
 
 
 ### Contact
