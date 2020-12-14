@@ -40,4 +40,4 @@ Worked mainly on J2EE/Struts based web applications. Web applications used to ha
 github : @saurav28 <br>
 Email: <saurav.sarkar1@gmail.com> <br>
 [linkedin](https://www.linkedin.com/in/sauravsarkar1/) <br>
-Lanugagues Known: English, Hindi, Bengali and German (A1)
+Languages Known: English, Hindi, Bengali and German (A1)
