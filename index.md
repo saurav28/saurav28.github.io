@@ -6,9 +6,6 @@ I have over 15 years of experience in Software development and architecture.
 I have developed many side projects too keep myself uptodate and feed my learning hunger.
 
 ### Work Experience
-**iGate Global Solutions (2005 -2008) - Senior Software Engineer**
-
-Worked mainly on J2EE/Struts based web applications. Web applications used to have integration with Content Management Systems like Documentum and with Mainframe systems.
 
 **SAP Labs India( 2008- Present) - Development Architect**
 
@@ -17,6 +14,10 @@ Have worked on many projects and on diverse programming languages.
 Currently working on an [Enterprise Content Managment as a Service](https://help.sap.com/viewer/product/DOCUMENT_MANAGEMENT/Cloud/en-US) project running on SAP Cloud Platform as a Development Architect.
 
 In my view main challenge of running a product in Cloud is Scalability followed by Security. I spend considerable amount of time to look at new ways to improve scalability of my product.
+
+**iGate Global Solutions (2005 -2008) - Senior Software Engineer**
+
+Worked mainly on J2EE/Struts based web applications. Web applications used to have integration with Content Management Systems like Documentum and with Mainframe systems.
 
 ### Skills
 
