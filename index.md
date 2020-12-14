@@ -1,5 +1,5 @@
 ### Welcome to my page.
-This is Saurav Sarkar.
+![alt text](https://avatars2.githubusercontent.com/u/238587?s=460&u=811952ee982a4ae8689d380dec72e95836bfe61b&v=4) This is Saurav Sarkar.
 I have over 15 years of experience in Software development and architecture.
 I have developed many side projects too keep myself uptodate and feed my learning hunger.
 
@@ -11,6 +11,10 @@ Worked mainly on J2EE/Struts based web applications. Web applications used to ha
 **SAP Labs India( 2008- Present) - Development Architect**
 
 Have worked on many projects and on diverse programming languages.
+
+Currently working on an [Enterprise Content Managment as a Service](https://help.sap.com/viewer/product/DOCUMENT_MANAGEMENT/Cloud/en-US) project running on SAP Cloud Platform as a Development Architect.
+
+In my view main challenge of running a product in Cloud is Scalability followed by Security. I spend considerable amount of time to look at new ways to improve scalability of my product.
 
 ### Skills
 
@@ -25,6 +29,8 @@ Have worked on many projects and on diverse programming languages.
 [Musical Bot](https://medium.com/@saurav.sarkar1/build-a-facebook-messenger-bot-with-botkit-5ab159d79f94?source=your_stories_page-------------------------------------) : A digital assistant in Facebook Messenger to recommend musical videos as per your input and also on your current mood :).
 
 [Gym Manager](https://github.com/saurav28/GymManager) : A simple gym management applications made in PHP and its super cool web framework Laravel
+
+[Simple Tests](https://github.com/saurav28/SimpleTests) : A wide collection of resuable code written in Java. 
 
 
 ### Contact
