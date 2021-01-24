@@ -37,5 +37,5 @@ Worked mainly on J2EE/Struts based web applications. Web applications used to ha
 
 ###
 
-[Contact] (https://saurav28.github.io/contact)
+[Contact](https://saurav28.github.io/contact)
 
