@@ -35,7 +35,7 @@ Worked mainly on J2EE/Struts based web applications. Web applications used to ha
 
 [Simple Tests](https://github.com/saurav28/SimpleTests) : A wide collection of resuable code written in Java. 
 
-###
 
-[Contact](https://saurav28.github.io/contact)
+
+[Contact Me](https://saurav28.github.io/contact)
 
