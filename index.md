@@ -40,7 +40,7 @@ Worked mainly on J2EE/Struts based web applications. Web applications used to ha
 
 ### Blogs/Technical Content Wrtiting
 
-[Codify It] (http://codifyit.blogspot.com )
+[Codify It](http://codifyit.blogspot.com )
 
 
 [Contact Me](https://saurav28.github.io/contact)
