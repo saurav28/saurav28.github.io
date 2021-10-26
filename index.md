@@ -4,7 +4,7 @@
 <img src="https://avatars2.githubusercontent.com/u/238587?s=460&u=811952ee982a4ae8689d380dec72e95836bfe61b&v=4" alt="drawing" width="200"/> 
 
 This is Saurav Sarkar. 
-I have over 15 years of experience in Software development and architecture.
+I have over 16 years of experience in Software development and architecture.
 I have developed many side projects too keep myself uptodate and feed my learning hunger.
 
 ### Work Experience
@@ -13,7 +13,7 @@ I have developed many side projects too keep myself uptodate and feed my learnin
 
 Have worked on many projects and on diverse programming languages.
 
-Currently working on an [Enterprise Content Managment as a Service](https://help.sap.com/viewer/product/DOCUMENT_MANAGEMENT/Cloud/en-US) project running on SAP Cloud Platform as a Development Architect.
+Currently working on an [Enterprise Content Managment as a Service](https://help.sap.com/viewer/product/DOCUMENT_MANAGEMENT/Cloud/en-US) project running on SAP Business Technology Platform (BTP) as a Development Architect.
 
 In my view main challenge of running a product in Cloud is Scalability followed by Security. I spend considerable amount of time to look at new ways to improve scalability of my product.
 
