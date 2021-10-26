@@ -26,8 +26,9 @@ Worked mainly on J2EE/Struts based web applications. Web applications used to ha
 | Topic      | Specifics |
 | ----------- | ----------- |
 | Programming Lanugage      | Java, C#, Java Script, ABAP ,PHP     |
-| Cloud Platforms   | SAP Cloud platform (Neo and Cloud Foundry), AWS ,Heroku       |
+| Cloud Platforms   | SAP Business Technology Platform (Neo and Cloud Foundry), AWS ,Heroku       |
 | Server Side frameworks  | JEE, Spring,Spring Boot , Laravel      |
+| Dev Ops  | Docker, Kubernetes,Maven , Gradle, Jenkins      |
 
 ### Side projects
 
